@@ -78,7 +78,7 @@ public class BatalhaDev {
         if (devHP > 0) {
             System.out.println("🏆 VITÓRIA! Você conteve o erro, fez o commit e salvou o fim de semana!");
         } else {
-            System.out.println("💀 GAME OVER. O Bug tomou conta do servidor. Prepare-se para explicar o atraso na Daily de segunda-feira...");
+            System.out.println("💀 GAME OVER. O Bug tomou conta do servidor. Prepare-se para explicar o atraso na Daily de segunda-feira... Nyehehehehehe");
         }
         System.out.println("=======================================================");
         
